@@ -104,10 +104,10 @@ export default function Registration(props) {
             <div>
                 <Header />
 
-                <div className="container login">
+                <div className="container bg-image">
                     <div className="clearboth"></div>
 
-                    <div className="container login">
+                    <div className="container registration">
 
                         <div className="row flag_box">
                             <a href="/#">

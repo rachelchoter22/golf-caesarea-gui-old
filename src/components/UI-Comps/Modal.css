@@ -1,6 +1,6 @@
 /* עיצוב כללי לכל הריבוע של הפופאפ */
 .modal {
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
     z-index: 100;
     position: fixed;
     top: 5vh;
@@ -70,7 +70,7 @@
 
   /* עיצובים לכפתורי הסגירה של הפופאפ  ----------------------------------------------------------*/
   .modal_button {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
     width: 5em;
     font-size: 1rem;
     text-align: center;
