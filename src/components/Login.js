@@ -95,18 +95,18 @@ export default function Login(props) {
 
 
   return (
-    <div>
-      <title>Tee Time</title>
-
-      <div>
+//     <div>
+//       <title>Tee Time</title>
+  <div>
+     
         {/* onLoad={() => checkUserName()} */}
 
         <Header />
-        <div className="container login">
+        <div className="container bg-image">
           <div className="clearboth"></div>
           {/* <!-- End flag_box --> */}
 
-          <div className="container login">
+          <div className="container bg-image">
             <div className="row flag_box">
               <a href="/#">
                 <span className="flag_icon">
@@ -310,7 +310,7 @@ export default function Login(props) {
               <div className="col-sm-2 col-md-2 col-lg-2"></div>
             </div>
           </div>
-        </div>
+        {/* </div> */}
       </div>
       {/* <!-- End Container--> */}
       <Footer />

@@ -24,11 +24,8 @@ export default function Header() {
     console.log("כאן מאשרים את השליחה");
   };
   return (
-    <div className="Header">
-      <div
-        className="navbar navbar-fixed-top navbar-inverse navbar-custom"
-        id="MainMenu"
-      >
+    <header className="header">
+      <div className="navbar navbar-fixed-top navbar-inverse navbar-custom" id="MainMenu">
         <div className="container">
           {/* <!-- Navbar --> */}
           <nav
@@ -108,6 +105,6 @@ export default function Header() {
         </div>
         {/* <!-- End Container--> */}
       </div>
-    </div>
+    </header>
   );
 }

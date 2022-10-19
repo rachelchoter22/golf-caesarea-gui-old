@@ -34,7 +34,8 @@ export default function EntranceControl() {
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
             <link rel="stylesheet" type="text/css" href="../css/reset.css" />
             {/* <!-- Latest compiled and minified CSS --> */}
-            <link rel="stylesheet" type="text/css" href="../css/golfstyle.css" />
+            <link rel="stylesheet" type="text/css" href="../css/golfstyle.css" /> 
+            
             <link rel="stylesheet" type="text/css" href="../css/golf-rtl.css" />
             <link href="https://fonts.googleapis.com/css?family=Assistant" rel="stylesheet" />
             <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
